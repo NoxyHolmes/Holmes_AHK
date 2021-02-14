@@ -1,4 +1,4 @@
-updurl := "https://github.com/NoxyHolmes/Holmes_AHK/blob/main/Holmes_AHK.exe?raw=true"
+updurl := ""
 SplashTextOn, , 60,Автообновление, Обновление. Ожидайте..`nНастраиваем систему обновления.
 RegRead, put2, HKEY_CURRENT_USER, SoftWare\SAMP, put2
 sleep, 5000
